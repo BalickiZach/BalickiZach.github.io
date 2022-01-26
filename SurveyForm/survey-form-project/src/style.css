@@ -1,0 +1,41 @@
+#title {
+}
+
+#logo{
+  position: relative;
+  width: 10%;
+  float: right;
+  /*border: 3px solid #73AD21;*/
+  min-width: 60px;
+}
+
+#description {
+  
+}
+
+#survey-form {
+  border-style: outset;
+  background-color: #ebffff;
+}
+
+/*Inside survey form*/
+
+#name {
+  width: 225px;
+}
+
+#email {
+  width: 225px;
+}
+
+#number {
+  width: 225px;
+}
+
+#dropdown{}
+
+/* Add Grade and Prefrences*/
+
+#websitereview{}
+
+/*End of survey form*/
